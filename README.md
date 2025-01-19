@@ -470,5 +470,13 @@ Me chamo Washington Luis, tenho 22 anos e sou natural de Pernambuco. Concluí o 
   <img src="https://i.gifer.com/3h9i.gif" alt="Coding Animation Left" width="100px" style="transform: scaleX(-20);" />
  <!-- Imagem alinhada à direita -->
   <img src="https://i.gifer.com/3h9i.gif" alt="Coding Animation Right" width="100px" />
+   <!-- Imagem alinhada à esquerda -->
+  <img src="https://i.gifer.com/3h9i.gif" alt="Coding Animation Left" width="100px" style="transform: scaleX(-20);" />
+ <!-- Imagem alinhada à direita -->
+  <img src="https://i.gifer.com/3h9i.gif" alt="Coding Animation Right" width="100px" />
+   <!-- Imagem alinhada à esquerda -->
+  <img src="https://i.gifer.com/3h9i.gif" alt="Coding Animation Left" width="100px" style="transform: scaleX(-20);" />
+ <!-- Imagem alinhada à direita -->
+  <img src="https://i.gifer.com/3h9i.gif" alt="Coding Animation Right" width="100px" />
 </div>
 
