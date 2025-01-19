@@ -1,16 +1,5 @@
 <h1 align="" style="font-weight: bold; text-decoration: none;" color="red" style="text-decoration: none;" > 👨🏻‍💻🔥 Washington Luís</h1>
 
-<br>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Imagem alinhada à esquerda -->
-  <img src="https://i.gifer.com/3h9i.gif" alt="Coding Animation Left" width="100px" style="transform: scaleX(-1);" />
-  <p>teste</p>
- <!-- Imagem alinhada à direita -->
-  <img src="https://i.gifer.com/3h9i.gif" alt="Coding Animation Right" width="100px" />
-</div>
-  
-
 # **`Engenheiro de Software Full-stack`**
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
