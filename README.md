@@ -8,12 +8,6 @@
 
 # **`Engenheiro de Software Full-stack`**
 
-  <!-- Imagem alinhada à direita -->
-  <img src="https://i.gifer.com/3h9i.gif" alt="Coding Animation Right" width="100px" />
-</div>
-
-
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <br>
