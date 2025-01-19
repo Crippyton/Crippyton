@@ -6,7 +6,7 @@
   <!-- Imagem alinhada à esquerda -->
   <img src="https://i.gifer.com/3h9i.gif" alt="Coding Animation Left" width="100px" style="transform: scaleX(-1);" />
 
-<h1 align="center" style="font-weight: bold; text-decoration: none;" color="red" >Engenheiro de Software Full-stack</h1>
+# **`Engenheiro de Software Full-stack`**
 
   <!-- Imagem alinhada à direita -->
   <img src="https://i.gifer.com/3h9i.gif" alt="Coding Animation Right" width="100px" />
