@@ -84,9 +84,12 @@ Me chamo Washington Luis, tenho 22 anos e sou natural de Pernambuco. Concluí o 
 ---
 
 <br/>
+
 <br/>
 
 ### 🤖 Linguagens e Tecnologias
+
+<br/>
 
 <img 
     align="left" 
