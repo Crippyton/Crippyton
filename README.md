@@ -13,7 +13,8 @@ Me chamo Washington Luis, tenho 22 anos e sou natural de Pernambuco. Concluí o 
 ---
 
 <div align="center">
-  <img src="https://i.gifer.com/ENku.gif" alt="Coding Animation" width="100%" />
+  
+  <img src="https://i.gifer.com/ENku.gif" alt="Coding Animation" width="100%"/>
   
 </div>
 
@@ -466,6 +467,7 @@ Me chamo Washington Luis, tenho 22 anos e sou natural de Pernambuco. Concluí o 
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
- < img src="https://i.gifer.com/DV3.gif" alt="Coding Animation" width="100%" />
-</div>
+ 
+  <img src="https://i.gifer.com/DV3.gif" alt="Coding Animation" width="100%"/>
+  </div>
 
