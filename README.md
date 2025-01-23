@@ -32,7 +32,7 @@ Me chamo Washington Luis, tenho 22 anos e sou natural de Pernambuco. Concluí o 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC-fzJFJnzrnSSOOVdgDMuKw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@yatagarasu_dev" style="text-decoration: none;">
+    <a href="https://www.youtube.com/@yatagarasu_dev" target="_blank" style="text-decoration: none;">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
