@@ -36,8 +36,10 @@ const washingtonLuis = {
 ## 🐍 Snake comendo meus commits!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Crippyton/Crippyton/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Crippyton/Crippyton/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
+<br clear="both">
 
 ## 🛠️ Eu programo com
 
