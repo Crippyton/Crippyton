@@ -13,7 +13,7 @@
 ```typescript
 const washingtonLuis = {
   name: "Washington Luís",
-  age: 22,
+  age: 23,
   location: "São Paulo, Brasil 🇧🇷",
   education: {
     technical: "Técnico em Redes de Computadores - ETE",
@@ -31,9 +31,10 @@ const washingtonLuis = {
 
 <br>
 
-<br>
 
 ## 🐍 Snake comendo meus commits!
+
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Crippyton/Crippyton/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -62,10 +63,12 @@ const washingtonLuis = {
 
 ### 🔧 Outras Tecnologias
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Azure-FCC624?style=for-the-badge&logo=azure&logoColor=black)
 
 </div>
 
