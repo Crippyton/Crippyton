@@ -52,7 +52,7 @@ const washingtonLuis = {
 
 ## 🎯 Projetos Destacados
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td>
