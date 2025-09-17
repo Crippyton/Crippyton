@@ -77,13 +77,13 @@ const washingtonLuis = {
 
 <br>
 
-## 🏆 Conquistas GitHub
-<div align="center">
+## 🏆 Conquistas
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Crippyton&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Gráfico de Atividades
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crippyton&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
@@ -100,7 +100,7 @@ const washingtonLuis = {
 
 <br>
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/Crippyton/Crippyton/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
@@ -109,7 +109,7 @@ const washingtonLuis = {
 
 ## 📱 Vamos Conectar?
 
-<div align="left">
+<div align="center">
 
 <a href="https://www.youtube.com/@yatagarasu_dev">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo" style="border: 1px solid black; border-radius: 15px;" />
