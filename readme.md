@@ -1,6 +1,6 @@
 # 👋 Olá, Tudo bem? Eu sou o Washington Luis!
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;Engenheiro+de+Software;DevOps+Enthusiast;Apaixonado+por+Tecnologia!" alt="Typing SVG" />
 </div>
 
@@ -25,32 +25,16 @@ const washingtonLuis = {
   funFact: "Transformando café em código desde sempre! ☕"
 };
 ```
-<div align="center">
-  <img align="right" src="https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif" />
-</div>  
-
-<br>
-
-
-## 🐍 Snake comendo meus commits!
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Crippyton/Crippyton/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br clear="both">
 
 ## 🛠️ Eu programo com
 
-<div align="center">
+<div align="left">
 
 ### 🎨 Frontend & Backend
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,cs" />
 
 ### 🔧 Outras Tecnologias
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,azure,bash,nginx,terraform" />
 
@@ -102,6 +86,25 @@ const washingtonLuis = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crippyton&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
+
+---
+
+<div align="center">
+  <img align="right" src="https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif" />
+</div>  
+
+<br>
+
+
+---
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Crippyton/Crippyton/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br clear="both">
 
 
 ## 📱 Vamos Conectar?
