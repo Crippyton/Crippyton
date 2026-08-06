@@ -36,7 +36,7 @@ const washingtonLuis = {
 ### 🔧 Outras Tecnologias
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,azure,bash,nginx,terraform" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,aws,bash,nginx,terraform" />
 
 </div>
 </div>
